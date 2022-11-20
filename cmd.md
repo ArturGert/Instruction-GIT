@@ -19,3 +19,13 @@ Linux/MacOs
 ```sh
 clear
 ```
+
+## Листинг файлов
+Windows:
+```sh
+dir
+```
+Linux/MacOs
+```sh
+ls
+```
