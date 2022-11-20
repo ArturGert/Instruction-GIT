@@ -11,7 +11,7 @@ cd /Path/to/folder
 ```
 
 ## Очистить терминал
-Windows:
+MS Windows:
 ```sh
 cls
 ```
