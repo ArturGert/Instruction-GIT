@@ -1,7 +1,7 @@
 # Подсказка по командной строке
 
 ## Сменить дирректорию
-Windows:
+MS Windows:
 ```sh
 cd C:\Path\to\folder
 ```
