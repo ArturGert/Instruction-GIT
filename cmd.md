@@ -9,3 +9,13 @@ Linux/MacOs
 ```sh
 cd /Path/to/folder
 ```
+
+## Очистить терминал
+Windows:
+```sh
+cls
+```
+Linux/MacOs
+```sh
+clear
+```
