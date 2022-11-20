@@ -29,3 +29,8 @@ Linux/MacOs
 ```sh
 ls
 ```
+
+## Создать директорию
+```sh
+mkdir folder
+```
