@@ -33,5 +33,13 @@ $ apt-get install git
 
 ## Настройка GIT
 
+После установки Git следует указать имя пользователя и адрес электронной почты:
+```
+$ git config --global user.name "user name"
+```
+```
+$ git config --global user.email user@example.com
+```
+
 ## Основные команды и работа в GIT
 
